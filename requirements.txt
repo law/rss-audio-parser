@@ -1,0 +1,7 @@
+requests>=2.31.0
+pydub>=0.25.1
+
+# Dev dependencies
+black>=23.11.0
+pylint>=3.0.2
+pre-commit>=3.5.0
